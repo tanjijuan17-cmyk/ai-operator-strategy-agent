@@ -43,7 +43,7 @@
 使输出更贴近真实运营工作流。
 
 ## Workflow 截图
-![workflow](./assets/workflow.png)
+![workflow](./workflow/agent-workflow.png)
 
 ## 项目结构说明
 - workflow/ → Dify DSL 文件
