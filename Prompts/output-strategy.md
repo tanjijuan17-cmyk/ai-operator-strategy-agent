@@ -9,16 +9,16 @@
 当前运营需求：{{#sys.query#}}
 
 结构化信息：
--运营目标：{{#1778162805137.structured_output.business_goal#}}
--目标人群：{{#1778162805137.structured_output.target_user#}}
--运营场景：{{#1778162805137.structured_output.scenario#}}
--触达渠道：{{#1778162805137.structured_output.scenario#}}
--产品或品类：{{#1778162805137.structured_output.product#}}
--预算范围：{{#1778162805137.structured_output.budget#}}
--活动周期：{{#1778162805137.structured_output.time_window#}}
--检索关键词：{{#1778162805137.structured_output.search_keywords#}}
-
-知识参考：{{#context#}}
+- 运营目标：{{#1778162805137.structured_output.business_goal#}}  
+- 目标人群：{{#1778162805137.structured_output.target_user#}}  
+- 运营场景：{{#1778162805137.structured_output.scenario#}}  
+- 触达渠道：{{#1778162805137.structured_output.scenario#}}  
+- 产品或品类：{{#1778162805137.structured_output.product#}}  
+- 预算范围：{{#1778162805137.structured_output.budget#}}  
+- 活动周期：{{#1778162805137.structured_output.time_window#}}  
+- 检索关键词：{{#1778162805137.structured_output.search_keywords#}}
+  
+  知识参考：{{#context#}}
 
 ## 任务
 请结合运营需求、结构化信息与知识参考，为运营人员提供一份简洁、可执行的运营策略建议。
