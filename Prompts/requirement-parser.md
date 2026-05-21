@@ -40,30 +40,30 @@
 4. 不要使用完整句子
 
 ## 输出格式
-仅输出 JSON，不要输出解释或 Markdown。
-{
-"business_goal": "",
-"target_user": "",
-"scenario": "",
-"budget": "",
-"time_window": "",
-"channel": "",
-"product": "",
-"can_generate": "",
-"search_keywords": []
+仅输出 JSON，不要输出解释或 Markdown。  
+{  
+"business_goal": "",  
+"target_user": "",  
+"scenario": "",  
+"budget": "",  
+"time_window": "",  
+"channel": "",  
+"product": "",  
+"can_generate": "",  
+"search_keywords": []  
 }
 
 ## 示例
-用户输入：我想在开学季针对大学生做一波生椰拿铁的促销，预算5万。
-输出：
-{
-"business_goal": "促销",
-"target_user": "大学生",
-"scenario": "开学季",
-"budget": "5万",
-"time_window": "unknown",
-"channel": "unknown",
-"product": "生椰拿铁",
-"can_generate": true,
-"search_keywords": ["生椰拿铁", "大学生", "开学季促销"]
+用户输入：我想在开学季针对大学生做一波生椰拿铁的促销，预算5万。  
+输出：  
+{  
+"business_goal": "促销",  
+"target_user": "大学生",  
+"scenario": "开学季",  
+"budget": "5万",  
+"time_window": "unknown",  
+"channel": "unknown",  
+"product": "生椰拿铁",  
+"can_generate": true,  
+"search_keywords": ["生椰拿铁", "大学生", "开学季促销"]  
 }
